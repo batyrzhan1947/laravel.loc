@@ -9,14 +9,13 @@
 </head>
 <body>
 
-<div style="background-color: coral; border: 1px solid black">
+<div>
     <h1>
-        Hello My Home Page!
+        Hello My Home Page!+
     </h1>
     <br>
-    <br>
-    <br>
 
+   
 
 </div>
 

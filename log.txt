@@ -1,0 +1,1 @@
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'testdb2.posts3' doesn't exist (SQL: Update posts3 SET updated_at=2023-01-15 14:51:52 where updated_at is null)
