@@ -15,7 +15,7 @@ class HomeController extends Controller
 
     public function index()
     {
-
+        $var = 0;
 
         $data = Country::where('Code','<','ALB')->select('Code','Name')->get();
         dd($data);
